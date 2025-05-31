@@ -1,64 +1,72 @@
-<h1 align="center">Hi 👋, I'm Amira Mohamed</h1>
-<h3 align="center">Passionate about AI, ML, and building solutions with real-world impact.</h3>
+# 👋 Hi, I'm Amira Mohamed Kamal Abbas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mera-elgaher&label=Profile%20views&color=0e75b6&style=flat" alt="mera-elgaher" />
-</p>
+## 🎯 Machine Learning Specialist & AI Researcher
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amira-mohamed-kamal-3b368b294)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:amiramohamedkamal484@gmail.com)
+
+### 🏆 Recent Achievements
+- 🥇 First Place, Universities & Graduates Category, GDC Assiut DevHack Competition (2024)
+- 🥇 First Place, Social Development Research, Asyut Governorate
+- 🥇 First Place, Cultural Competition, Egyptian E-Learning University
+
+### 🔬 Current Research
+- Developing a mobile application for handwritten signature authentication using Siamese neural networks
+- Achieving 90.83% accuracy in signature verification
+- Implementing advanced image preprocessing and data augmentation techniques
+
+### 💻 Technical Skills
+- **Programming Languages**: Python, Java, SQL
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn, Siamese Networks, CNNs
+- **Data Analysis**: Power BI, Matplotlib, Seaborn, Pandas
+- **Databases**: MySQL
+- **Development Tools**: Jupyter Notebook, Protégé, WOKWi
+- **Mobile Development**: Flutter
+
+### 📚 Education
+- **Bachelor of Information Technology** at Egyptian E-Learning University (2021-2025)
+- GPA: 3.5/4.0
+- Specializing in Machine Learning, Deep Learning, and Data Science
+
+### 🎓 Certifications
+- Applied Data Science Lab (WorldQuant University)
+- Data Science Training Program (Microsoft Student Clubs 2023)
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
+- IT Specialist: Device Configuration and Management
+- Digital Transformation Fundamentals (Google)
+
+### 🌟 Leadership Experience
+- HR Role at Enactus Assiut
+- Student Representative at Egyptian E-Learning University
+- Active participant in Google Developer Student Clubs
+
+### 🌍 Languages
+- Arabic (Native)
+- English (Fluent)
+
+### 🔍 Currently
+- Seeking research opportunities in AI and machine learning
+- Open to academic collaborations and internships
+- Working on innovative solutions in signature authentication
+
+### 🚀 Projects
+- **Signature Authentication Mobile App**
+  - Developed a Flutter-based mobile application for handwritten signature authentication using Siamese neural networks
+  - Implemented Siamese neural networks achieving 90.83% accuracy
+  - Integrated advanced image preprocessing and data augmentation techniques
+
+- **Machine Learning Research Projects**
+  - Developed various ML models using TensorFlow and Keras
+  - Implemented CNNs for image classification tasks
+  - Created data analysis pipelines using Python and Pandas
+
+- **Data Science Projects**
+  - Built interactive dashboards using Power BI
+  - Conducted data analysis and visualization using Matplotlib and Seaborn
+  - Developed SQL databases for data management
 
 ---
+*"Passionate about leveraging AI and ML to create impactful solutions"*
 
-- 🔭 I’m currently working on projects involving **AI, Machine Learning, and Computer Vision**
-- 🌱 I’m continuously learning and growing in **data science**, **deep learning**, and **software development**
-- 💬 Ask me about anything related to **Python**, **TensorFlow**, **Pandas**, or **data analysis**
-- 📫 How to reach me: **merakamal374@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/amira-mohamed-kamal-3b368b294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-    
-</p>
-
----
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
----
-
-<p align="center">
-  🚀 Let’s connect and collaborate on meaningful tech projects!
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mera-elgaher&show_icons=true&theme=radical)](https://github.com/Mera-elgaher)
